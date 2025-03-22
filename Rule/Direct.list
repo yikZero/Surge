@@ -1,0 +1,12 @@
+# NAME: Direct
+# AUTHOR: yikZero
+# REPO: https://github.com/yikZero/Surge
+# UPDATED: 2025-03-22
+
+# PLEX
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,plex.tv
+
+# Roominess
+DOMAIN-SUFFIX,yikzero.com
+DOMAIN-SUFFIX,yikzero.net
