@@ -4,7 +4,7 @@
 # UPDATED: 2025-03-22
 
 # PLEX
-DOMAIN,v4.plex.tv
+DOMAIN-SUFFIX,plex.tv
 
 # Roominess
 DOMAIN-SUFFIX,yikzero.com
