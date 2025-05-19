@@ -1,8 +1,10 @@
 # NAME: QneKey
 # AUTHOR: yikZero
 # REPO: https://github.com/yikZero/Surge
-# UPDATED: 2025-03-16
+# UPDATED: 2025-05-19
 DOMAIN-SUFFIX,onekey.so,extended-matching
+DOMAIN-SUFFIX,onekey-asset.com,extended-matching
+DOMAIN-SUFFIX,1kboost.com,extended-matching
 # Slack
 DOMAIN-SUFFIX,slack-core.com
 DOMAIN-SUFFIX,slack-edge.com
