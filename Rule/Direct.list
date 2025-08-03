@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: yikZero
 # REPO: https://github.com/yikZero/Surge
-# UPDATED: 2025-03-22
+# UPDATED: 2025-08-03
 
 # PLEX
 DOMAIN-SUFFIX,plex.tv
@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,plex.tv
 # Roominess
 DOMAIN-SUFFIX,yikzero.com
 DOMAIN-SUFFIX,yikzero.net
+
+# Micu
+DOMAIN-SUFFIX,micu.hk
