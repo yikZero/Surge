@@ -3,9 +3,6 @@
 # REPO: https://github.com/yikZero/Surge
 # UPDATED: 2025-08-03
 
-# PLEX
-DOMAIN-SUFFIX,plex.tv
-
 # Roominess
 DOMAIN-SUFFIX,yikzero.com
 DOMAIN-SUFFIX,yikzero.net
