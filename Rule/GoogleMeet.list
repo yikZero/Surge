@@ -1,0 +1,36 @@
+# NAME: GoogleMeet
+# AUTHOR: yikZero
+# REPO: https://github.com/yikZero/Surge
+# UPDATED: 2026-06-19
+# SOURCE: https://knowledge.workspace.google.com/admin/meet/prepare-your-network-for-meet-meetings-and-live-streams
+
+# Core Meet app and entry points
+DOMAIN,meet.google.com
+DOMAIN,meet.new
+
+# Meet-specific static/API endpoints from Google Workspace docs
+DOMAIN,meetings.clients6.google.com
+DOMAIN-SUFFIX,meetings.googleapis.com
+DOMAIN-SUFFIX,hangouts.googleapis.com
+
+# Meet live streaming
+DOMAIN,stream.meet.google.com
+
+# Meet media SNI from Google Workspace docs
+DOMAIN,workspace.turns.goog
+DOMAIN,meet.turns.goog
+
+# Google public STUN hosts commonly used by WebRTC/Meet
+DOMAIN,stun.l.google.com
+DOMAIN,stun1.l.google.com
+DOMAIN,stun2.l.google.com
+DOMAIN,stun3.l.google.com
+DOMAIN,stun4.l.google.com
+
+# Google Workspace / consumer Meet media IP ranges from Google docs
+IP-CIDR,74.125.250.0/24,no-resolve
+IP-CIDR,74.125.247.128/32,no-resolve
+IP-CIDR,142.250.82.0/24,no-resolve
+IP-CIDR6,2001:4860:4864:5::/64,no-resolve
+IP-CIDR6,2001:4860:4864:4:8000::/128,no-resolve
+IP-CIDR6,2001:4860:4864:6::/64,no-resolve
