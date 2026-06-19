@@ -1,11 +1,13 @@
-# NAME: QneKey
+# NAME: OneKey Work
 # AUTHOR: yikZero
 # REPO: https://github.com/yikZero/Surge
-# UPDATED: 2026-06-18
+# UPDATED: 2026-06-19
 DOMAIN-SUFFIX,onekey.so,extended-matching
 DOMAIN-SUFFIX,onekey-asset.com,extended-matching
 DOMAIN-SUFFIX,onekey-internal.com,extended-matching
 DOMAIN-SUFFIX,1kboost.com,extended-matching
+DOMAIN-SUFFIX,onekeytest.com,extended-matching
+DOMAIN-SUFFIX,onekeycn.com,extended-matching
 # Slack
 DOMAIN-SUFFIX,slack-core.com
 DOMAIN-SUFFIX,slack-edge.com
@@ -25,3 +27,15 @@ DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
+# Work tools
+DOMAIN-SUFFIX,atl-paas.net
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,revenuecat.ai
+DOMAIN-SUFFIX,supabase.co
+DOMAIN-SUFFIX,supabase.com
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.sh
+DOMAIN-SUFFIX,vercel.live
