@@ -1,7 +1,7 @@
 # NAME: AIGC
 # AUTHOR: yikZero
 # REPO: https://github.com/yikZero/Surge
-# UPDATED: 2025-03-16
+# UPDATED: 2026-08-09
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,deepmind.google
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,chatgpt.com
