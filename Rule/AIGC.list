@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,suno.com
 DOMAIN-SUFFIX,meta.ai
@@ -43,5 +44,10 @@ DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursorvm.com
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,geminiweb-pa.googleapis.com
+DOMAIN,gemini.gstatic.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
