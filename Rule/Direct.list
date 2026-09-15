@@ -1,11 +1,14 @@
 # NAME: Direct
 # AUTHOR: yikZero
 # REPO: https://github.com/yikZero/Surge
-# UPDATED: 2025-08-03
+# UPDATED: 2026-09-15
 
 # Roominess
 DOMAIN-SUFFIX,yikzero.com
 DOMAIN-SUFFIX,yikzero.net
+
+# Indonesia e-Visa
+DOMAIN-SUFFIX,imigrasi.go.id
 
 # M-Team
 DOMAIN-SUFFIX,m-team.cc
